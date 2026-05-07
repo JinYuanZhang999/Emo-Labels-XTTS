@@ -12,7 +12,7 @@ Achieving stable and controllable emotional expression remains a key challenge f
 ## Model Architecture
 <table style="width:100%; text-align:center;">
   <tr>
-    <td style="text-align:center;"><img src="./model_architecture.png" alt="model framework" style="width:100%;"></td>
+    <td style="text-align:center;"><img src="./Model_Architecture.png" alt="model framework" style="width:100%;"></td>
   </tr>
 </table>
 
